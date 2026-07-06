@@ -8,8 +8,8 @@ References:
             
             R. Schultz, L. Villiger, V. Gischig, & S. Wiemer (2026)
             Interpreting the cause of bound earthquakes at underground injection experiments
-            EGUSphere Solid Earth, xx.
-            doi: 10.5194/egusphere-2025-5806.
+            Solid Earth, 17(4), 617-642.
+            doi: 10.5194/se-17-617-2026.
             
 
 This program is free software: you can redistribute it and/or modify it under the terms of the GNU General Public License as published by the Free Software Foundation, either version 3 of the License, or any later version.

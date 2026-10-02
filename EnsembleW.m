@@ -149,7 +149,7 @@ function [W]=getEW(M,m1,b,S)
   Wb=Wb./sum(Wb,1);
   
   % Average between the two weights.
-  W=exp(log(Wa)+log(Wb));
+  W=exp((log(Wa)+log(Wb))/2);
   %W=Wa;
   %W=Wb;
   W=W./sum(W,1);
